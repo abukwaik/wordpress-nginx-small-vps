@@ -27,4 +27,4 @@ The theme will be available for download very soon.
 </ul>
 <hr>
 
-<a href='https://pledgie.com/campaigns/27883'><img alt='Click here to lend your support to: Support Rookie and make a donation at pledgie.com !' src='https://pledgie.com/campaigns/27883.png?skin_name=chrome' border='0' ></a>
+<a href='http://www.croti.com'><img alt='donate' src='https://www.paypalobjects.com/webstatic/en_US/btn/btn_donate_pp_142x27.png' border='0' ></a>
