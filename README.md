@@ -14,7 +14,7 @@ Configurations of various applications (e.g. nginx, memcached, W3TC, etc.) on sm
 <li>
 <a href="https://www.digitalocean.com/?refcode=b18def068b9f">DigitalOcean</a> for hosting (512MB VPS)</li>
 <li>
-<a href="http://www.ubuntu.com/server">Ubuntu Server</a> OS</li>
+<a href="http://www.ubuntu.com/server">Ubuntu Server</a> 64bit</li>
 <li>
 <a href="http://nginx.org/">Nginx</a> web server</li>
 <li>
