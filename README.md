@@ -27,10 +27,4 @@ The theme will be available for download very soon.
 </ul>
 <hr>
 
-
-<div id="donation"><form target="_top" method="post" action="https://www.paypal.com/cgi-bin/webscr">
-                <input type="hidden" value="_s-xclick" name="cmd">
-                <input type="hidden" value="JUXUWMEFUEJPW" name="hosted_button_id">
-                <input type="image" border="0" alt="PayPal - The safer, easier way to pay online!" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif">
-                <img width="1" height="1" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" alt="">
-            </form></div>
+<a href='https://pledgie.com/campaigns/27883'><img alt='Click here to lend your support to: Support Rookie and make a donation at pledgie.com !' src='https://pledgie.com/campaigns/27883.png?skin_name=chrome' border='0' ></a>
