@@ -26,9 +26,11 @@ The theme will be available for download very soon.
 <a href="https://wordpress.org/plugins/w3-total-cache/">W3 Total Cache</a> for managing page and database caching</li>
 </ul>
 <hr>
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="JUXUWMEFUEJPW">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
+
+
+<div id="donation"><form target="_top" method="post" action="https://www.paypal.com/cgi-bin/webscr">
+                <input type="hidden" value="_s-xclick" name="cmd">
+                <input type="hidden" value="JUXUWMEFUEJPW" name="hosted_button_id">
+                <input type="image" border="0" alt="PayPal - The safer, easier way to pay online!" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif">
+                <img width="1" height="1" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" alt="">
+            </form></div>
