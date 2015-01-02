@@ -1,4 +1,4 @@
-WordPress nginx small vps
+WordPress/Nginx setup on a small VPS
 =========================
 A collection of configuration snippets that can help your server improve the web site's performance and security
 
