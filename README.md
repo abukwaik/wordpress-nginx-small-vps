@@ -7,10 +7,10 @@ wordpress-nginx-small-vps
 - nginx 
 - php5-fpm
 - memcached
-
-    DigitalOcean for hosting (512GB VPS)
-    Ubuntu Server OS
-    Nginx web server
-    PHP (& necessary libraries) and MySQL
-    Memcached and OPcache for caching
-    W3 Total Cache for managing page and database caching
+- 
+- DigitalOcean for hosting (512GB VPS)
+- Ubuntu Server OS
+- Nginx web server
+- PHP (& necessary libraries) and MySQL
+- Memcached and OPcache for caching
+- W3 Total Cache for managing page and database caching
