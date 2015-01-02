@@ -3,18 +3,13 @@ wordpress-nginx-small-vps
 
 Configurations of various applications (e.g. nginx, memcached, W3TC, etc.) on small vps server powering my wordpress site.
  
- Directory Structure
-- nginx 
-- php5-fpm
-- memcached
-
-- DigitalOcean for hosting (512MB VPS)
-- Ubuntu Server OS
-- Nginx web server
-- PHP (& necessary libraries) and MySQL
-- Memcached and OPcache for caching
-- W3 Total Cache for managing page and database caching
-
+<h2>I serve my site with the following WebStack:</h2>
+<ul class="task-list">
+<li><a href="https://www.digitalocean.com/community/tutorials/how-to-install-linux-nginx-mysql-php-lemp-stack-on-ubuntu-14-04">LEMP</a></li>
+<li><a href="https://rtcamp.com/tutorials/php/memcache/">memcached</a></li>
+</ul>
+<hr>
+<h3>Server Setup</h3>
 <ul class="task-list">
 <li>
 <a href="https://www.digitalocean.com/?refcode=b18def068b9f">DigitalOcean</a> for hosting (512MB VPS)</li>
