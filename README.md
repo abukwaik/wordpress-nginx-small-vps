@@ -1,5 +1,6 @@
-wordpress-nginx-small-vps
+WordPress nginx small vps
 =========================
+A collection of configuration snippets that can help your server improve the web site's performance and security
 
 <h4>I serve <a href="http://www.croti.com/">My Site</a> with the following WebStack:</h4>
 <ul class="task-list">
