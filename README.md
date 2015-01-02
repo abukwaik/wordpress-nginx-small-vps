@@ -4,13 +4,6 @@ A collection of configuration snippets that can help your server improve the web
 
 <h4>I serve <a href="http://www.croti.com/">My new WordPress theme</a> with the following WebStack:</h4>
 <ul class="task-list">
-<li><a href="https://www.digitalocean.com/community/tutorials/how-to-install-linux-nginx-mysql-php-lemp-stack-on-ubuntu-14-04">LEMP</a></li>
-<li><a href="https://rtcamp.com/tutorials/php/memcache/">memcached</a></li>
-</ul>
-The theme will be available for download very soon.
-<hr>
-<h4>Server Setup</h4>
-<ul class="task-list">
 <li>
 <a href="https://www.digitalocean.com/?refcode=15811ecfb795">DigitalOcean</a> for hosting (512MB VPS)</li>
 <li>
@@ -26,5 +19,7 @@ The theme will be available for download very soon.
 <a href="https://wordpress.org/plugins/w3-total-cache/">W3 Total Cache</a> for managing page and database caching</li>
 </ul>
 <hr>
-
+<h5>The theme will be available for download very soon.</h5>
+Please consider donating so we can keep this as a free theme and add more features in the future.
+<hr>
 <a href='http://www.croti.com/support.html'><img alt='donate' src='https://www.paypalobjects.com/webstatic/en_US/btn/btn_donate_pp_142x27.png' border='0' ></a>
