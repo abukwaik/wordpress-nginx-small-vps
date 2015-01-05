@@ -22,4 +22,4 @@ A collection of configuration snippets that can help your server improve the web
 <h5>The theme will be available for download very soon.</h5>
 Please consider donating so we can keep this as a free theme and add more features in the future.
 <hr>
-<a href='http://www.croti.com/support.html'><img alt='donate' src='https://www.paypalobjects.com/webstatic/en_US/btn/btn_donate_pp_142x27.png' border='0' ></a>
+<a href='http://www.croti.com/donate.html'><img alt='donate' src='https://www.paypalobjects.com/webstatic/en_US/btn/btn_donate_pp_142x27.png' border='0' ></a>
