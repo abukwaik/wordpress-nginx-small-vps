@@ -2,7 +2,7 @@ WordPress/Nginx setup on a small VPS
 =========================
 A collection of configuration snippets that can help your server improve the web site's performance and security
 
-<h4>I serve <a href="http://www.croti.com/">My new WordPress theme</a> with the following WebStack:</h4>
+<h4>I serve <a href="http://rookie.croti.com/">My new WordPress theme</a> with the following WebStack:</h4>
 <ul class="task-list">
 <li>
 <a href="https://www.digitalocean.com/?refcode=15811ecfb795">DigitalOcean</a> for hosting (512MB VPS)</li>
