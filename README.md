@@ -6,7 +6,7 @@ I serve My [new WordPress theme](http://starter.croti.com/) with the following W
 * [DigitalOcean](https://www.digitalocean.com/?refcode=15811ecfb795) for hosting (512MB VPS)
 * [Ubuntu Server](http://www.ubuntu.com/server) 64bit
 * [http://nginx.org/](Nginx) web server
-* [PHP](http://www.php.net/) and [MySQL](href="http://dev.mysql.com)
+* [PHP](http://www.php.net/) and [MySQL](http://dev.mysql.com)
 * [http://memcached.org/](Memcached) and [OPcache](http://php.net/manual/en/book.opcache.php) for caching
 * [https://wordpress.org/plugins/w3-total-cache/](W3 Total Cache) for managing page and database caching
 
