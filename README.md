@@ -9,8 +9,8 @@ I serve My [new WordPress theme](http://starter.croti.com/) with the following W
 * [PHP](http://www.php.net/) and [MySQL](http://dev.mysql.com)
 * [http://memcached.org/](Memcached) and [OPcache](http://php.net/manual/en/book.opcache.php) for caching
 * [W3 Total Cache](https://wordpress.org/plugins/w3-total-cache/) for managing page and database caching
-
 <hr>
 If you can, Please consider donating!
-[![Donate to the framework](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif "Donate to the rookie")](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JUXUWMEFUEJPW)
 <hr>
+[![Donate to the framework](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif "Donate to the rookie")](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JUXUWMEFUEJPW)
+
