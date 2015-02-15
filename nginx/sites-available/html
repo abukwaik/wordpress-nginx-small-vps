@@ -1,9 +1,14 @@
 # URL: add a permanent redirect if required.
 # Change example to your domain name or ip
 server {
-    server_name example.com www.example.com;
+    server_name example.com;
+    return 301 http://www.example.com$request_uri;
+}
+
+server {
+    server_name www.example.com;
     root /var/www/example.com/html;
-    access_log /var/log/nginx/example.com.access.log;
-    error_log /var/log/nginx/example.com.error.log;
-    include global/common.conf;
+    access_log /var/log/nginx/www.example.com.access.log;
+    error_log /var/log/nginx/www.example.com.error.log;
+    include global/*.conf;
 }
