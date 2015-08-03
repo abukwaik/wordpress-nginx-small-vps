@@ -1,7 +1,7 @@
 ## WordPress/Nginx setup on a small VPS
 A collection of configuration snippets that can help your server improve the web site's performance and security
 
-I serve My [new WordPress theme](http://starter.croti.com/) with the following WebStack:
+I serve My [new WordPress theme](https://www.radixtheme.com/) with the following WebStack:
 
 * [DigitalOcean](https://www.digitalocean.com/?refcode=15811ecfb795) for hosting (512MB VPS)
 * [Ubuntu Server](http://www.ubuntu.com/server) 64bit
