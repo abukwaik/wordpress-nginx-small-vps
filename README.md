@@ -3,7 +3,7 @@ A collection of configuration snippets that can help your server improve the web
 
 I serve My [new WordPress theme](https://www.radixtheme.com/) with the following WebStack:
 
-* [DigitalOcean](https://www.digitalocean.com/?refcode=15811ecfb795) for hosting 512MB VPS - (My referral link and will also add $10 in credit)
+* [DigitalOcean](https://www.digitalocean.com/?refcode=15811ecfb795) for hosting 512MB VPS - (My referral link and will also give you $10 credit)
 * [Ubuntu Server](http://www.ubuntu.com/server) 64bit
 * [Nginx](http://nginx.org/) web server
 * [PHP](http://www.php.net/) and [MySQL](http://dev.mysql.com)
